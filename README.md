@@ -2,7 +2,7 @@
 
 Just a formal README file
 
-(comment-on-aa-pdf)[https://original-trublemaker.github.io/comment-on-aa-pdf/]
+[comment-on-aa-pdf](https://original-trublemaker.github.io/comment-on-aa-pdf/){tagget=_blank}
 
 
 
